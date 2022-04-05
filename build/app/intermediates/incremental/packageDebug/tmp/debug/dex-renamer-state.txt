@@ -1,0 +1,4 @@
+#Tue Apr 05 10:54:03 CEST 2022
+base.0=/Users/dayssol/Work/PluralSight/Creating_Form/flutter_form/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
